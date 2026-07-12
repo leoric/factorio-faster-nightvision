@@ -1,0 +1,9 @@
+{
+    "name": "faster-nightvision",
+    "version": "1.0.0",
+    "factorio_version": "2.0",
+    "title": "Faster Nightvision",
+    "author": "leoric",
+    "description": "Night vision activates earlier",
+    "dependencies": ["base >= 2.0.0"]
+}
